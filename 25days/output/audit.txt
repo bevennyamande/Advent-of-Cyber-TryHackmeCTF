@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Oct 11 22:47:44 2020
+Invocation: foremost TryHackMe.jpg 
+Output directory: /root/werkzeug/ctf/tryhackme/25days/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: TryHackMe.jpg
+Start: Sun Oct 11 22:47:44 2020
+Length: 31 KB (31889 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      31 KB 	          0 	 
+Finish: Sun Oct 11 22:47:44 2020
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Oct 11 22:47:44 2020
